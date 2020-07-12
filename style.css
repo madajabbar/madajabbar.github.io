@@ -1,0 +1,16 @@
+.jumbotron h1{
+    font-size: 40px;
+}
+hr{
+    width: 50%;
+    border: 1px solid black;
+}
+
+
+.col-md{
+    margin-top: 20px;
+}
+
+section{
+    min-height: 420px;
+}
